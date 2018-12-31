@@ -1,14 +1,14 @@
 {
-  "name": "dormshed-sandbox",
+  "name": "simple-fetch-api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.0.3",
-    "react-dom": "^16.0.3",
-    "styled-components": "^2.1.1"
+    "react": "latest",
+    "react-dom": "latest",
+    "styled-components": "latest"
   },
   "devDependencies": {
-    "react-scripts": "1.0.10"
+    "react-scripts": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
